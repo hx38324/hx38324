@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hx38324
 - 👀 I’m interested in numerical simulations and geodynamics.
-- 🌱 I’m currently learning CitcomS, Shell, Python.
+- 🌱 I’m currently learning ASPECT, CitcomS, Shell, Python.
 - 💞️ I’m glad to talk with people who share the same interest with computational geodynamics.
 - 📫 How to reach me: hexiang@utexas.edu
 <!---
