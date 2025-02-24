@@ -1,8 +1,6 @@
-- 👋 Hi, I’m hx38324
-- 👀 I’m interested in numerical simulations and geodynamics.
-- 🌱 I’m currently learning ASPECT, CitcomS, Shell, Python.
-- 💞️ I’m glad to talk with people who share the same interest with computational geodynamics.
-- 📫 How to reach me: hexiang@utexas.edu
+Hi! Here is Xiang! Welcome to my github! It's a new one and I have not uploaded anything useful yet. Now I am a first year Ph.D. student in geosciences.
+My research interest is about using numerical methods to solve geodynamics problems. Like plate motions, topography evolution. But I am still new to those
+things and learning to do better science. Hope one day I will make this website useful for somebody in the future. Welcome any discussion and talk! [hexiang@utexas.edu]
 <!---
 hx38324/hx38324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
